@@ -4,8 +4,8 @@ The purpose of the template in this repository is to give you a starting point
 for setting up social cards for your projects, both standard ones and custom
 cards for specific kinds of pages.
 
-It reflects the results you get by going through the [social cards tutorials] 
-in the documentation. 
+It reflects the results you get by going through the [social cards tutorials]
+in the documentation.
 
 [social cards tutorials]: https://squidfunk.github.io/mkdocs-material/tutorials#social-cards
 
@@ -24,15 +24,15 @@ template.
 
 ## Using it
 
-This is a [template repository], so you can create as many repositories from it 
+This is a [template repository], so you can create as many repositories from it
 as you like (unlike forks of which you can only have one at a time). These
-repositories will contain only a single commit to start with, instead of the whole 
-history of the template. Also, you can create a private repository from this template 
+repositories will contain only a single commit to start with, instead of the whole
+history of the template. Also, you can create a private repository from this template
 (while forks inherit the visibility settings from the original).
 
 [template repository]: https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template
 
-Simply hit the `Use this template` button above. You can set the specifics of your 
+Simply hit the `Use this template` button above. You can set the specifics of your
 new repository from there.
 
 ## Project layout
