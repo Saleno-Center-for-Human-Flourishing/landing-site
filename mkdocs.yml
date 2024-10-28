@@ -68,7 +68,7 @@ markdown_extensions:
   - footnotes
 
 # Python Markdown Extensions
-  - mdx_math
+  #- mdx_math
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.betterem:
