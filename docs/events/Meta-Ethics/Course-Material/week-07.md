@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Week 7 - Natural Law and Human Rights
 
 ```mermaid
