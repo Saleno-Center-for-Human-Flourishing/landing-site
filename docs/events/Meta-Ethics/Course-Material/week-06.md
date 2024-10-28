@@ -19,11 +19,11 @@ We also talked about validity, and soundness.
 
 !!! note "A Valid Argument"
 
-    A set of premises that guarantee a given conclusion
+    A set of premises that guarantee a given conclusion.
 
 !!! note "A Sound Argument"
 
-    A set of ***true*** premises that guarantee a given conclusion
+    A set of ***true*** premises that guarantee a given conclusion.
 
 We talked about some common valid argument forms and invalid ones.
 
@@ -47,14 +47,14 @@ And we had some fun creating our own examples of each. For instance, we discover
 <div class="grid" markdown>
 !!! note "Socrates was a man"
 
-    All men are mortal ***$\therefore$***<br>
-    (A) Socrates was a man<br>
-    (B) Socrates was mortal<br>
+    All men are mortal. ***$\therefore$***<br>
+    (A) Socrates was a man.<br>
+    (B) Socrates was mortal.<br>
 
 !!! note "Which Means"
-    1. Socrates was a man $\rightarrow$ Socrates was mortal<br>
-    2. Socrates was a man<br>
-    $\therefore$ Socrates was mortal
+    1. Socrates was a man $\rightarrow$ Socrates was mortal.<br>
+    2. Socrates was a man.<br>
+    $\therefore$ Socrates was mortal.
 </div>
 
 This week, we will practice deciphering (summarizing) another's argument. In preparation for this, this weeks reading will only be pages 131---141 of *Ethics*[@fial24].
@@ -64,7 +64,7 @@ You are then going to summarize this reading using what is called the *4 sentenc
 (1) They say __________, because __________.<br>
 (2) I say __________, because __________.<br>
 (3) One might object that __________.<br>
-(4) I reply that __________<br>
+(4) I reply that __________.<br>
 
 These four sentences here are meant to be complete grammatically correct sentences. In otherwords, your job is to fill in the blanks.
 
