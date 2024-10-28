@@ -10,8 +10,7 @@ This series of tutorials is aimed at gamers who have had some introduction to ph
 
 ## Course goals, format and preparation
 
-The aim of this course is to introduce students to the key topics in philosophy of cognitive sci-
-ence, with an emphasis on cognitive neuroscience. We examine, among other things, what the relationship is between the brain and the mind, how consciousness can be understood
+The aim of this course is to introduce students to the key topics in philosophy of cognitive science, with an emphasis on cognitive neuroscience. We examine, among other things, what the relationship is between the brain and the mind, how consciousness can be understood
 neurally, whether some ideas might be innate, and the concepts of embodied, embedded
 and extended cogniton.
 Each tutorial has a required reading of three articles and an assigned essay of about 1500–
