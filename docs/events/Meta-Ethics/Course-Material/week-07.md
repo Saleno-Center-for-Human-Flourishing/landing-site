@@ -64,7 +64,7 @@ Imagine borrowing money with the intent of not paying it back. By doing so, you 
   * beauty
   * pleasure
 
-3. The Most Important Moral Truths are Knowable by Us
+3. The Most Important Moral Truths are Knowable by Us.
 
 * What about moral skepticism? (E.g., non-cognitivism)
 
@@ -72,7 +72,7 @@ Imagine borrowing money with the intent of not paying it back. By doing so, you 
 
 > However, the prosecution argued successfully that even if the experiments did not violate the defendant's own laws, they were still crimes against humanity. The idea was that there was a law more basic than civil laws exists---a moral law---and these doctors and others should have known what this basic moral law required. [@fial24, 148]
 
-4. The Moral Law is Universal
+4. The Moral Law is Universal.
 
 * Applies to all humans
 * Denies moral relativism or moral subjectivism, since accordingly, some moral facts are applicable on the basis of culture etc, or dependent on one's subjective acceptance of that law.
@@ -85,7 +85,7 @@ However, NL can still claim that flourishing is relative to one's social or cult
 
 ## Basic Elements of Natural Law
 
-1. Found in Nature and discernible by reason
+1. Found in Nature and discernible by reason.
 
 * Not to be confused with laws of science.
 
@@ -110,9 +110,9 @@ Examine human nature, determine what is essential for us to function well *qua* 
 
 There are two versions of natural law. Can you guess what these might be? First, they both hold the following:
 
-1. Having genuine needs met
-2. Having well-functioning capacities
-3. Having well-developed individual talents or abilities
+1. Having genuine needs met.
+2. Having well-functioning capacities.
+3. Having well-developed individual talents or abilities.
 
 ***Aristotle:***
 
