@@ -45,7 +45,7 @@ plugins:
   - search
   - bibtex:
       bib_file: "mkdocs.bib"
-      #csl_file: "/home/redapemusic35/data_storage/chicago-fullnote-bibliography-with-ibid.csl"
+      csl_file: "/home/redapemusic35/data_storage/chicago-fullnote-bibliography-with-ibid.csl"
   - social:
       cards_layout_options:
         background_image: layouts/sunset.jpg
@@ -96,12 +96,6 @@ markdown_extensions:
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-  - javascripts/katex.js
-  - https://unpkg.com/katex@0/dist/katex.min.js
-  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
-
-extra_css:
-  - https://unpkg.com/katex@0/dist/katex.min.css
 
 extra:
   analytics:
