@@ -30,7 +30,7 @@ graph TD;
 
 ### The Four Features
 
-1. Grounding in Human Nature
+1. Grounding in Human Nature.
 
 * Human Nature in Flourishing == moral law is necessary for human beings to flourish
 * Moral law cannot undermine flourishing of human beings
@@ -39,7 +39,7 @@ Therefore, an act is right *iff* it promotes human flourishing.
 
 * What are some examples of laws that undermine human flourishing?
 
-2. The Good being Prior to the Right
+2. The Good being Prior to the Right.
 
 * Right $\rightarrow$ good
 
