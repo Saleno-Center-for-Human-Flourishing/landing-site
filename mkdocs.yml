@@ -46,6 +46,7 @@ plugins:
   - bibtex:
       bib_file: "mkdocs.bib"
       csl_file: "/home/redapemusic35/data_storage/chicago-fullnote-bibliography-with-ibid.csl"
+      cite_inline: true
   - social:
       cards_layout_options:
         background_image: layouts/sunset.jpg
